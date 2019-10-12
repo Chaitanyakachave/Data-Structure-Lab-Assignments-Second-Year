@@ -5,3 +5,4 @@ All DSL assignments
      2] Checking string is plaindrome or not using stack.
      3] Conversion of expression.
      4] Searching friends name in phonebook using binary search
+     5] Storing Club members details using Singly linked list
